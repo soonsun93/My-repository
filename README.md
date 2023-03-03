@@ -1,2 +1,2 @@
 Kokoa Clone 2020 Update
-CSS got so much beteer!
+HTML & CSS are so much fun!
